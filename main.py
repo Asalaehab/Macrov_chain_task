@@ -1,9 +1,6 @@
 """
 Asala Ehab
-Daila Fawzi
-Nada Mohmmed
-Rana Ahmed
-Dina Mohsen
+
 """
 
 import numpy as np
